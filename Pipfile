@@ -8,6 +8,11 @@ matplotlib = "*"
 ipywidgets = "*"
 scikit-image = "*"
 jupyter = "*"
+scikit-learn = "*"
+seaborn = "*"
+keras = "*"
+tensorflow = "*"
+tqdm = "*"
 
 [dev-packages]
 
