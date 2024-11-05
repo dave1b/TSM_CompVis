@@ -11,8 +11,10 @@ jupyter = "*"
 scikit-learn = "*"
 seaborn = "*"
 keras = "*"
-tensorflow = "*"
 tqdm = "*"
+nbconvert = "*"
+wandb = "*"
+tensorflow = "*"
 
 [dev-packages]
 
