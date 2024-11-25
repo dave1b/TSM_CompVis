@@ -1,0 +1,11 @@
+#path: 'project_2/license_plate'
+train: 'images/train'
+val: 'images/val'
+test: 'images/test'
+
+# Number of object classes
+nc: 1  # Number of classes (e.g., "1" for license plates)
+
+# class names
+names:
+  0: 'license_plate'

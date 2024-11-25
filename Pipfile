@@ -15,6 +15,7 @@ tqdm = "*"
 nbconvert = "*"
 wandb = "*"
 tensorflow = "*"
+ultralytics = "*"
 
 [dev-packages]
 
