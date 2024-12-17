@@ -14,9 +14,9 @@ keras = "*"
 tqdm = "*"
 nbconvert = "*"
 wandb = "*"
-tensorflow = "*"
 ultralytics = "*"
 scipy = "*"
+tensorflow = "*"
 
 [dev-packages]
 
